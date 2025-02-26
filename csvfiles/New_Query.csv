@@ -1,0 +1,169 @@
+COMPANY_ID,EQP_TYPE,EQP_MODEL,EQP_MODEL_NAME,EQP_ID_LABEL,DEACTIVATION_DATE,CREATED_BY_USER_ID,CREATED_TIME,MODIFY_BY_USER_ID,MODIFY_TIME,LOAD_PROFILE_ID,MANUFACTURER
+260,"CMOD        ",9,TM822,"CMAC Address        "," ","Avila, Miguel (miguela)","01-17-2024 13:16:08","Devlin, Tony (tonyd)","08-27-2024 17:16:14",,ARRIS
+260,"CMOD        ",88,EN2251,"CMAC Address        "," ","Ratliff, Tracey (traceyr)","10-17-2024 12:57:48","Ratliff, Tracey (traceyr)","10-17-2024 12:57:48",,HITRON
+260,"ONT         ",89,803G,"FSAN                "," ","Kittivanichkulkrai, Tony (tonyk)","10-17-2024 14:55:03","Kittivanichkulkrai, Tony (tonyk)","10-17-2024 14:55:03",,CALIX
+260,"ONT         ",25,"100-05589 GP4200XH 10GBPS ONT","FSAN                "," ","Avila, Miguel (miguela)","01-17-2024 13:45:41","Avila, Miguel (miguela)","01-17-2024 13:45:41",,CALIX
+260,"ONT         ",26,"100-05463 GP1100x - indoor ONT","FSAN                "," ","Avila, Miguel (miguela)","01-17-2024 13:46:41","Avila, Miguel (miguela)","01-17-2024 13:46:41",,CALIX
+260,"ONT         ",27,"100-05638 GP1101X Giga Point ONT","FSAN                "," ","Avila, Miguel (miguela)","01-17-2024 13:47:24","Avila, Miguel (miguela)","01-17-2024 13:47:24",,CALIX
+260,"CMOD        ",2,"790635 ARRIS DOCSIS 3.0 BATTERY BACKUP","CMAC Address        "," ","Avila, Miguel (miguela)","01-17-2024 11:21:58","Avila, Miguel (miguela)","07-17-2024 09:21:12",,ARRIS
+260,"CMOD        ",6,"BM760 ARRIS CABLE","CMAC Address        "," ","Avila, Miguel (miguela)","01-17-2024 11:26:57","Avila, Miguel (miguela)","07-17-2024 09:21:21",,ARRIS
+260,"CMOD        ",10,"CM3200 INTERNET CABLE MODEM","CMAC Address        "," ","Avila, Miguel (miguela)","01-17-2024 13:16:22","Avila, Miguel (miguela)","07-17-2024 09:21:26",,ARRIS
+260,"CMOD        ",7,CM820,"CMAC Address        "," ","Avila, Miguel (miguela)","01-17-2024 11:33:19","Avila, Miguel (miguela)","07-17-2024 09:21:29",,ARRIS
+260,"CMOD        ",12,"CM8200A/NA-P2 CABLE MODEM","CMAC Address        "," ","Avila, Miguel (miguela)","01-17-2024 13:18:27","Avila, Miguel (miguela)","07-17-2024 09:21:32",,ARRIS
+260,"CMOD        ",14,"CM8200-P2 KIT","CMAC Address        "," ","Avila, Miguel (miguela)","01-17-2024 13:20:15","Avila, Miguel (miguela)","07-17-2024 09:21:41",,ARRIS
+260,"CMOD        ",5,"CM900 ARRIS CABLE","CMAC Address        "," ","Avila, Miguel (miguela)","01-17-2024 11:26:43","Avila, Miguel (miguela)","07-17-2024 09:21:44",,ARRIS
+260,"CMOD        ",8,"DG860 798995 Arris","CMAC Address        "," ","Avila, Miguel (miguela)","01-17-2024 11:38:55","Avila, Miguel (miguela)","07-17-2024 09:21:47",,ARRIS
+260,"CMOD        ",4,"DG860 ARRIS 798995 CABLE","CMAC Address        "," ","Avila, Miguel (miguela)","01-17-2024 11:25:35","Avila, Miguel (miguela)","07-17-2024 09:21:51",,ARRIS
+260,"CMOD        ",17,"Netgear CM1000 CABLE MODEM","CMAC Address        "," ","Avila, Miguel (miguela)","01-17-2024 13:21:09","Avila, Miguel (miguela)","07-17-2024 09:24:15",,NETGEAR
+260,"CMOD        ",15,"TG2472 Arris Modem","CMAC Address        "," ","Avila, Miguel (miguela)","01-17-2024 13:20:34","Avila, Miguel (miguela)","07-17-2024 09:24:18",,ARRIS
+260,"CMOD        ",16,"TG3452 Internet Cable Modem","CMAC Address        "," ","Avila, Miguel (miguela)","01-17-2024 13:20:54","Avila, Miguel (miguela)","07-17-2024 09:24:22",,ARRIS
+260,"CMOD        ",3,"TG862 Arris Cable","CMAC Address        "," ","Avila, Miguel (miguela)","01-17-2024 11:22:23","Avila, Miguel (miguela)","07-17-2024 09:24:24",,ARRIS
+260,"CMOD        ",13,"TM3402 Cable Modem","CMAC Address        "," ","Avila, Miguel (miguela)","01-17-2024 13:18:42","Avila, Miguel (miguela)","07-17-2024 09:24:30",,ARRIS
+260,"CMOD        ",91,TM9202,"CMAC Address        "," ","Kramme, Matthew (matt)","10-21-2024 17:38:58","Kramme, Matthew (matt)","10-21-2024 17:39:29",,ARRIS
+260,"DSLMOD      ",21,"VMG4381-B10A ZyXEL Modem","Serial              "," ","Avila, Miguel (miguela)","01-17-2024 13:27:19","Vias, Ivan (ivanv)","08-15-2024 13:53:49",,ZyXEL
+260,"DSLMOD      ",20,M405e,"MAC Address         "," ","Avila, Miguel (miguela)","01-17-2024 13:27:01","Avila, Miguel (miguela)","07-17-2024 09:24:48",,VISIONNET
+260,"DSLMOD      ",22,"VMG4825 ZyXel Modem","Serial              "," ","Avila, Miguel (miguela)","01-17-2024 13:27:36","Vias, Ivan (ivanv)","08-15-2024 13:54:01",,ZyXEL
+260,"DSLMOD      ",23,"VMG4927-B50A Zyxel Modem","Serial              "," ","Avila, Miguel (miguela)","01-17-2024 13:28:13","Vias, Ivan (ivanv)","08-15-2024 13:54:24",,ZyXEL
+260,"DSLMOD      ",92,VM405,"MAC Address         "," ","Kramme, Matthew (matt)","10-21-2024 19:42:32","Kramme, Matthew (matt)","10-21-2024 19:42:32",,VISIONNET
+260,"SEC_DEVICE  ",30,"UVC G3, Indoor/Outdoor, AF Adapter 3 Pac","MAC Address         "," ","Avila, Miguel (miguela)","01-17-2024 16:53:26","Avila, Miguel (miguela)","07-17-2024 09:26:03",,UBIQUITI
+260,"ISPROUTER   ",36,"ASR-920-12CZ-D ROUTER DC Version","Serial Number       "," ","Avila, Miguel (miguela)","01-26-2024 10:31:38","Avila, Miguel (miguela)","07-17-2024 09:26:46",,CISCO
+260,"ISPROUTER   ",35,"CISCO ASR-920-12CZ-A ROUTER AC Version","Serial Number       "," ","Avila, Miguel (miguela)","01-26-2024 10:28:12","Avila, Miguel (miguela)","07-17-2024 09:26:49",,CISCO
+260,"ISPROUTER   ",40,"N520-4G4Z-A AC Version","Serial Number       "," ","Avila, Miguel (miguela)","01-26-2024 14:42:55","Avila, Miguel (miguela)","07-17-2024 09:26:51",,CISCO
+260,"ISPROUTER   ",41,"N520-X-4G4Z-D DC Version","Serial Number       "," ","Avila, Miguel (miguela)","01-26-2024 14:49:16","Avila, Miguel (miguela)","07-17-2024 09:26:54",,CISCO
+260,"VOIPA       ",45,"ER-6P-US Edge Router","Serial Number       "," ","Vias, Ivan (ivanv)","01-26-2024 15:08:54","Avila, Miguel (miguela)","07-17-2024 09:27:28",,UBIQUITI
+260,"SEC_DEVICE  ",34,"ST8000VX010 Seagate SkyHawk 8TB SATA","Serial Number       "," ","Avila, Miguel (miguela)","01-17-2024 16:54:16","Avila, Miguel (miguela)","07-17-2024 09:27:43",,SEAGATE
+260,ACCESS_POINT,44,"MR74-HW Meraki Access Point","MAC Address         "," ","Avila, Miguel (miguela)","01-26-2024 15:05:46","Avila, Miguel (miguela)","07-17-2024 09:20:27",,CISCO
+260,ACCESS_POINT,56,"U6-Lite-US Indoor 2X2 WiFi 6 (802.11ax)","MAC Address         "," ","Avila, Miguel (miguela)","01-26-2024 15:21:45","Avila, Miguel (miguela)","07-17-2024 09:20:35",,UBIQUITI
+260,"VOIPA       ",46,"ES-24-250W EdgeSwitch-NA","Serial Number       ",01-24-2025,"Vias, Ivan (ivanv)","01-26-2024 15:09:20","Alvarez, Aaron (aarona)","01-24-2025 16:47:30",,UBIQUITI
+260,"VOIPA       ",47,"ES-8-150W Edge Switch-NA","Serial Number       ",01-24-2025,"Vias, Ivan (ivanv)","01-26-2024 15:09:46","Alvarez, Aaron (aarona)","01-24-2025 16:53:06",,UBIQUITI
+260,"VOIPA       ",37,"Yealink SIP-T53W-NA","MAC Address         ",01-24-2025,"Vias, Ivan (ivanv)","01-26-2024 12:30:11","Alvarez, Aaron (aarona)","01-24-2025 16:57:45",,YEALINK
+260,"VOIPA       ",38,"Yealink SIP-T57W W/O Pwr supply-NA","MAC Address         ",01-24-2025,"Vias, Ivan (ivanv)","01-26-2024 12:35:10","Alvarez, Aaron (aarona)","01-24-2025 16:58:58",,YEALINK
+260,"SEC_DEVICE  ",33,"UBI-UNVR 4 Bay Network Video Recorder-NA","MAC Address         ",01-24-2025,"Avila, Miguel (miguela)","01-17-2024 16:54:05","Alvarez, Aaron (aarona)","01-24-2025 17:02:01",,UBIQUITI
+260,"SEC_DEVICE  ",32,"UniFi Cloud Key, G2, with HDD-NA","MAC Address         ",01-24-2025,"Avila, Miguel (miguela)","01-17-2024 16:53:53","Alvarez, Aaron (aarona)","01-24-2025 17:05:23",,UBIQUITI
+260,"SEC_DEVICE  ",31,"UniFi Protect G4-Bullet Camera-NA","MAC Address         ",01-24-2025,"Avila, Miguel (miguela)","01-17-2024 16:53:40","Alvarez, Aaron (aarona)","01-24-2025 17:10:29",,UBIQUITI
+260,"SEC_DEVICE  ",29,"UniFi Protect G4 Dome Camera-NA","MAC Address         ",01-24-2025,"Avila, Miguel (miguela)","01-17-2024 16:53:13","Alvarez, Aaron (aarona)","01-24-2025 17:12:11",,UBIQUITI
+260,"ONT         ",28,"000-01206 ONT GigaSpire u10xe, GS423,XGS","FSAN                ",01-28-2025,"Avila, Miguel (miguela)","01-17-2024 13:47:44","Alvarez, Aaron (aarona)","01-28-2025 11:00:43",,CALIX
+260,"SWITCH      ",42,"170-3924-906 CIENA 39241- Dual DC Power","Serial Number       ",01-31-2025,"Avila, Miguel (miguela)","01-26-2024 14:53:45","Alvarez, Aaron (aarona)","01-31-2025 16:24:20",,CIENA
+260,ACCESS_POINT,49,UAP-AC-M-US,"MAC Address         "," ","Avila, Miguel (miguela)","01-26-2024 15:10:23","Avila, Miguel (miguela)","07-17-2024 09:20:44",,UBIQUITI
+260,ACCESS_POINT,48,UAP-NANOHD-USC,"MAC Address         "," ","Avila, Miguel (miguela)","01-26-2024 15:09:55","Avila, Miguel (miguela)","07-17-2024 09:20:48",,UBIQUITI
+260,ACCESS_POINT,52,UBI-UAPACMPROUS,"MAC Address         "," ","Avila, Miguel (miguela)","01-26-2024 15:11:49","Avila, Miguel (miguela)","07-17-2024 09:21:00",,UBIQUITI
+260,"CMOD        ",1,"793987 ARRIS DOCSIS 3.0 CABLE MODEM","CMAC Address        "," ","Avila, Miguel (miguela)","01-17-2024 11:09:23","Avila, Miguel (miguela)","07-17-2024 09:21:17",,ARRIS
+260,"CMOD        ",11,"TM3202A/NA INTERNET MULTI-LINE CAB MOD","CMAC Address        "," ","Avila, Miguel (miguela)","01-17-2024 13:18:13","Avila, Miguel (miguela)","07-17-2024 09:24:27",,ARRIS
+260,"DSLMOD      ",24,"VMG4005-B50B ZyXEL Bonded XDSL Modem Bri","MAC Address         "," ","Avila, Miguel (miguela)","01-17-2024 13:28:29","Avila, Miguel (miguela)","07-17-2024 09:24:52",,ZyXEL
+260,"GATEWAY     ",55,"USG FIREWALL UnIfI Security Gateway 3P","MAC Address         "," ","Avila, Miguel (miguela)","01-26-2024 15:16:30","Avila, Miguel (miguela)","07-17-2024 09:25:28",,UBIQUITI
+260,"IPTV        ",65,"STB AMIGO 7X 2.4/5GHZ 801.11AC 2X2","MAC Address         "," ","Avila, Miguel (miguela)","01-26-2024 15:37:09","Avila, Miguel (miguela)","07-17-2024 09:25:32",,AMINO
+260,"SWITCH      ",54,"Switch US-8-150W-US UBIQUITI","MAC Address         "," ","Avila, Miguel (miguela)","01-26-2024 15:13:08","Avila, Miguel (miguela)","07-17-2024 09:26:07",,UBIQUITI
+260,"SWITCH      ",57,"USW-24-PoE UniFI Switch 24 Port 250W","MAC Address         "," ","Avila, Miguel (miguela)","01-26-2024 15:22:34","Avila, Miguel (miguela)","07-17-2024 09:26:10",,UBIQUITI
+260,"WLS_ROUTER  ",69,"GS4220E GigaSPIRE Blast #100-05413 ","FSAN/SSID           "," ","Vias, Ivan (ivanv)","08-16-2024 10:17:33","Vias, Ivan (ivanv)","08-16-2024 10:17:33",,CALIX 
+260,"ONT         ",90,711GE,"FSAN                "," ","Kittivanichkulkrai, Tony (tonyk)","10-17-2024 14:55:17","Kittivanichkulkrai, Tony (tonyk)","10-17-2024 14:55:17",,CALIX
+260,"WLS_ROUTER  ",64,"000-00866 844E-1 w/ power adapter","FSAN                "," ","Avila, Miguel (miguela)","01-26-2024 15:36:14","Boon, Kristen (kristenb)","07-23-2024 16:23:55",,CALIX
+260,"DSLMOD      ",18,"AR-5381U COMTREND DSL","MAC Address         "," ","Avila, Miguel (miguela)","01-17-2024 13:26:36","Kramme, Matthew (matt)","10-22-2024 14:02:40",,D
+260,"DSLMOD      ",19,"AR5381 COMTREND","MAC Address         "," ","Avila, Miguel (miguela)","01-17-2024 13:26:46","Kramme, Matthew (matt)","10-22-2024 14:02:51",,D
+260,"SEC_DEVICE  ",132,"9997062000 Fusion Smart Home Camera","MAC Address         "," ","Iobst, Ryan (ryio0260)","10-18-2024 12:03:00","Iobst, Ryan (ryio0260)","10-18-2024 12:03:00",,Amino
+260,"NONSERIAL   ",75,"DBCAM-DAK Digital Doorbell Adapter 4 PK","EQP_ID              "," ","Vias, Ivan (ivanv)","08-16-2024 10:24:13","Hunt, Terri (terri)","01-23-2025 11:25:56",,SKYBELL 
+260,"GATEWAY     ",84,"ER-4 4-port Internet Gateway/Firewall","Serial Number       "," ","Vias, Ivan (ivanv)","08-16-2024 10:30:46","Alvarez, Aaron (aarona)","01-24-2025 15:02:51",,UBIQUITI
+260,"ISPROUTER   ",62,"000-01174 GS4227E GigaSpire Blast U6.2NA","FSAN                ",01-24-2025,"Avila, Miguel (miguela)","01-26-2024 15:35:12","Alvarez, Aaron (aarona)","01-24-2025 15:16:59",,CALIX
+260,"WLS_ROUTER  ",72,"000-01174 GS4227E GigaSpire Blast U6.2","FSAN                "," ","Vias, Ivan (ivanv)","08-16-2024 10:21:12","Alvarez, Aaron (aarona)","01-24-2025 15:17:20",,CALIX
+260,"ISPROUTER   ",59,"GS4220E GigaSPIRE Blast #100-05413","FSAN                ",01-24-2025,"Avila, Miguel (miguela)","01-26-2024 15:25:58","Alvarez, Aaron (aarona)","01-24-2025 16:29:31",,CALIX
+260,"FIREWALL    ",67,"Switch US-8-150W-US UBIQUITI ","MAC Address         ",01-24-2025,"Vias, Ivan (ivanv)","08-16-2024 10:13:10","Alvarez, Aaron (aarona)","01-24-2025 16:31:07",,UBIQUITI 
+260,"WLS_ROUTER  ",68,"Calix 100-05202 GS2020E GigaSPIRE BLAST","FSAN                "," ","Vias, Ivan (ivanv)","08-16-2024 10:16:51","Alvarez, Aaron (aarona)","01-24-2025 16:14:43",,CALIX
+260,"ISPROUTER   ",58,"Calix 100-05202 GS2020E GigaSPIRE NA","FSAN                ",01-24-2025,"Avila, Miguel (miguela)","01-26-2024 15:25:31","Alvarez, Aaron (aarona)","01-24-2025 16:15:01",,CALIX
+260,"SWITCH      ",80,"1700525E2 NON-WIRELESS SWITCH","Serial Number       "," ","Vias, Ivan (ivanv)","08-16-2024 10:28:26","Alvarez, Aaron (aarona)","01-24-2025 16:37:26",,ADTRAN
+260,"VOIPA       ",51,"1700525E2 NON-WIRELESS SWITCH-NA","Serial Number       ",01-24-2025,"Vias, Ivan (ivanv)","01-26-2024 15:11:11","Alvarez, Aaron (aarona)","01-24-2025 16:40:53",,ADTRAN
+260,"SWITCH      ",81,"ADTRAN 924 4212924L1","Serial Number       "," ","Vias, Ivan (ivanv)","08-16-2024 10:28:49","Alvarez, Aaron (aarona)","01-24-2025 16:41:30",,ADTRAN
+260,"VOIPA       ",50,"ADTRAN 924 4212924L1-NA","Serial Number       ",01-24-2025,"Vias, Ivan (ivanv)","01-26-2024 15:10:43","Alvarez, Aaron (aarona)","01-24-2025 16:44:08",,ADTRAN
+260,"SWITCH      ",83,"ES-24-250W EdgeSwitch","Serial Number       "," ","Vias, Ivan (ivanv)","08-16-2024 10:29:43","Alvarez, Aaron (aarona)","01-24-2025 16:45:11",,UBIQUITI
+260,"SWITCH      ",82,"ES-8-150W Edge Switch","Serial Number       "," ","Vias, Ivan (ivanv)","08-16-2024 10:29:20","Alvarez, Aaron (aarona)","01-24-2025 16:51:18",,UBIQUITI
+260,"NONSERIAL   ",86,"Yealink SIP-T53W","EQP_ID              "," ","Vias, Ivan (ivanv)","08-16-2024 10:33:35","Alvarez, Aaron (aarona)","01-24-2025 16:57:38",,YEALINK
+260,"NONSERIAL   ",85,"Yealink SIP-T57W W/O Pwr supply","EQP_ID              "," ","Vias, Ivan (ivanv)","08-16-2024 10:33:17","Alvarez, Aaron (aarona)","01-24-2025 16:59:04",,YEALINK
+260,"WLS_ROUTER  ",70,"000-01177/ 100-05493 GigaSpire BLAST U4","FSAN                "," ","Vias, Ivan (ivanv)","08-16-2024 10:18:13","Alvarez, Aaron (aarona)","01-24-2025 17:15:07",,CALIX
+260,"WLS_DEVICE  ",60,"000-01177/ 100-05493 GigaSpire BLAST-NA","FSAN                ",01-24-2025,"Avila, Miguel (miguela)","01-26-2024 15:33:49","Alvarez, Aaron (aarona)","01-24-2025 17:15:20",,CALIX
+260,"WLS_DEVICE  ",61,"000-01178 GM1028 GigaSpire Mesh U4M-NA","FSAN                ",01-24-2025,"Avila, Miguel (miguela)","01-26-2024 15:34:08","Alvarez, Aaron (aarona)","01-24-2025 17:16:42",,CALIX
+260,"WLS_ROUTER  ",71,"000-01178 GM1028 GigaSpire Mesh U4M","FSAN                "," ","Vias, Ivan (ivanv)","08-16-2024 10:20:27","Alvarez, Aaron (aarona)","01-24-2025 17:16:52",,CALIX
+260,"ISPROUTER   ",63,"100-05613 GS4227W GigaSpire Blast U6-NA","FSAN                ",01-28-2025,"Avila, Miguel (miguela)","01-26-2024 15:35:28","Alvarez, Aaron (aarona)","01-28-2025 16:53:57",,CALIX
+260,"GATEWAY     ",53,"Firewall USG-PRO-4-U SUBIQUITI-NA","MAC Address         "," ","Avila, Miguel (miguela)","01-26-2024 15:12:24","Alvarez, Aaron (aarona)","01-31-2025 16:36:47",,UBIQUITI
+260,"FIREWALL    ",66,"Firewall USG-PRO-4-U SUBIQUITI","MAC Address         "," ","Vias, Ivan (ivanv)","08-16-2024 10:12:39","Alvarez, Aaron (aarona)","01-31-2025 16:36:55",,UBIQUITI
+260,"NONSERIAL   ",87,"Yealink EXP50 expansion module","EQP_ID              "," ","Vias, Ivan (ivanv)","08-16-2024 10:33:59","Alvarez, Aaron (aarona)","01-31-2025 16:37:38",,YEALINK
+260,"IPTV        ",129,"9988080081U Kamai 7B","MAC Address         "," ","Iobst, Ryan (ryio0260)","10-18-2024 11:55:00","Iobst, Ryan (ryio0260)","10-18-2024 11:55:00",,Amino
+260,"IPTV        ",128,"100-05030 804 Mesh Dual Wifi Power Adapt","FSAN                "," ","Iobst, Ryan (ryio0260)","10-18-2024 11:51:00","Iobst, Ryan (ryio0260)","10-18-2024 11:51:00",,Calix
+260,"IPTV        ",127,"100-05577 GM2037 GigaSpireMeshBLAST u6me","MAC Address         "," ","Iobst, Ryan (ryio0260)","10-18-2024 11:51:00","Iobst, Ryan (ryio0260)","10-18-2024 11:51:00",,Calix
+260,"IPTV        ",126,"99-786000-00 Agora 555","MAC Address         "," ","Iobst, Ryan (ryio0260)","10-18-2024 11:50:00","Iobst, Ryan (ryio0260)","10-18-2024 11:50:00",,Entone
+260,"IPTV        ",125,"9980500011 AMULET 505 E/W 500GB HDDVR","MAC Address         "," ","Iobst, Ryan (ryio0260)","10-18-2024 11:50:00","Iobst, Ryan (ryio0260)","10-18-2024 11:50:00",,Entone
+260,"IPTV        ",124,"9988000001 KAMAI 450STB E/W MOCA URC 4.X","MAC Address         "," ","Iobst, Ryan (ryio0260)","10-18-2024 11:49:00","Iobst, Ryan (ryio0260)","10-18-2024 11:49:00",,Entone
+260,"IPTV        ",123,"9988000002U STB KAMAI 500","MAC Address         "," ","Iobst, Ryan (ryio0260)","10-18-2024 11:49:00","Iobst, Ryan (ryio0260)","10-18-2024 11:49:00",,Entone
+260,"IPTV        ",122,"9988090006 Kamai 651","MAC Address         "," ","Iobst, Ryan (ryio0260)","10-18-2024 11:48:00","Iobst, Ryan (ryio0260)","10-18-2024 11:50:00",,Amino
+260,"DSLMOD      ",121,"VMG4325-B10A ZyXEL BONDED XDSL MODEM","MAC Address         "," ","Iobst, Ryan (ryio0260)","10-18-2024 11:30:00","Iobst, Ryan (ryio0260)","10-18-2024 11:30:00",,Zyxel
+260,"CNVTBOX     ",120,DTAU-HD-SIK-P2,"Serial              "," ","Iobst, Ryan (ryio0260)","10-18-2024 11:17:00","Iobst, Ryan (ryio0260)","10-18-2024 11:17:00",,Motorola
+260,"CNVTBOX     ",119,"DCX 700M","Serial              "," ","Iobst, Ryan (ryio0260)","10-18-2024 11:17:00","Iobst, Ryan (ryio0260)","10-18-2024 11:17:00",,Motorola
+260,"CNVTBOX     ",118,DCX525E,"Serial              "," ","Iobst, Ryan (ryio0260)","10-18-2024 11:16:00","Iobst, Ryan (ryio0260)","10-18-2024 11:16:00",,Motorola
+260,"CNVTBOX     ",117,"DCX3510M HDDVR","Serial              "," ","Iobst, Ryan (ryio0260)","10-18-2024 11:16:00","Iobst, Ryan (ryio0260)","10-18-2024 11:16:00",,Motorola
+260,"CNVTBOX     ",116,"DCX3501M HDDVR","Serial              "," ","Iobst, Ryan (ryio0260)","10-18-2024 11:16:00","Iobst, Ryan (ryio0260)","10-18-2024 11:16:00",,Motorola
+260,"CNVTBOX     ",115,"DCX3400M HDDVR","Serial              "," ","Iobst, Ryan (ryio0260)","10-18-2024 11:16:00","Iobst, Ryan (ryio0260)","10-18-2024 11:16:00",,Motorola
+260,"CNVTBOX     ",114,"DCX3300M HD","Serial              "," ","Iobst, Ryan (ryio0260)","10-18-2024 11:15:00","Iobst, Ryan (ryio0260)","10-18-2024 11:15:00",,Motorola
+260,"CNVTBOX     ",113,DCX3200M,"Serial              "," ","Iobst, Ryan (ryio0260)","10-18-2024 11:15:00","Iobst, Ryan (ryio0260)","10-18-2024 11:15:00",,Motorola
+260,"CNVTBOX     ",112,DCT700,"Serial              "," ","Iobst, Ryan (ryio0260)","10-18-2024 11:15:00","Iobst, Ryan (ryio0260)","10-18-2024 11:15:00",,Motorola
+260,"CNVTBOX     ",111,DCH70,"Serial              "," ","Iobst, Ryan (ryio0260)","10-18-2024 11:15:00","Iobst, Ryan (ryio0260)","10-18-2024 11:15:00",,Motorola
+260,"CNVTBOX     ",110,"DCH3416 HDDVR","Serial              "," ","Iobst, Ryan (ryio0260)","10-18-2024 11:14:00","Iobst, Ryan (ryio0260)","10-18-2024 11:14:00",,Motorola
+260,"CNVTBOX     ",109,DCH3200HD,"Serial              "," ","Iobst, Ryan (ryio0260)","10-18-2024 11:14:00","Iobst, Ryan (ryio0260)","10-18-2024 11:14:00",,Motorola
+260,"CNVTBOX     ",108,DCH200,"Serial              "," ","Iobst, Ryan (ryio0260)","10-18-2024 11:14:00","Iobst, Ryan (ryio0260)","10-18-2024 11:14:00",,Motorola
+260,"CNVTBOX     ",107,DCH100,"Serial              "," ","Iobst, Ryan (ryio0260)","10-18-2024 11:14:00","Iobst, Ryan (ryio0260)","10-18-2024 11:14:00",,Motorola
+260,"CNVTBOX     ",106,"Cable Card","Serial              "," ","Iobst, Ryan (ryio0260)","10-18-2024 11:13:00","Iobst, Ryan (ryio0260)","10-18-2024 11:13:00",,Motorola
+260,"OTHER       ",103,"3904-Dual DC POWER 170-3904-901","Serial              "," ","Iobst, Ryan (ryio0260)","10-18-2024 10:55:00","Iobst, Ryan (ryio0260)","10-18-2024 10:55:00",,Ciena
+260,"OTHER       ",102,"3904 Dual AC POWER 170-3904-900","Serial              "," ","Iobst, Ryan (ryio0260)","10-18-2024 10:54:00","Iobst, Ryan (ryio0260)","10-18-2024 10:54:00",,Ciena
+260,"OTHER       ",101,"170-3924-906 CIENA 3924 -Dual DC Power","Serial              "," ","Iobst, Ryan (ryio0260)","10-18-2024 10:54:00","Iobst, Ryan (ryio0260)","10-18-2024 10:54:00",,Ciena
+260,"ONT         ",98,GP4201X,"FSAN                "," ","Dinesh, Arul (aruld)","10-18-2024 10:46:00","Dinesh, Arul (aruld)","10-18-2024 10:46:00",,CALIX
+260,"VOIPA       ",97,"NetVanta 3148P 4 Gigabit port Internet","Serial Number       "," ","Iobst, Ryan (ryio0260)","10-18-2024 10:27:00","Iobst, Ryan (ryio0260)","10-18-2024 10:27:00",,Adtran
+260,"VOIPA       ",96,"NetVanta 1570-24-370W 24-port (PoE) swit","Serial Number       "," ","Iobst, Ryan (ryio0260)","10-18-2024 10:27:00","Iobst, Ryan (ryio0260)","10-18-2024 10:27:00",,Adtran
+260,"VOIPA       ",95,"NetVanta 1560-8-65W 8-port (PoE) switch","Serial Number       "," ","Iobst, Ryan (ryio0260)","10-18-2024 10:26:00","Iobst, Ryan (ryio0260)","10-18-2024 10:26:00",,Adtran
+260,"VOIPA       ",94,"NETVANTA 1560-48-370W","Serial Number       "," ","Iobst, Ryan (ryio0260)","10-18-2024 10:25:00","Iobst, Ryan (ryio0260)","10-18-2024 10:25:00",,Adtran
+260,"VOIPA       ",93,"ADTRAN 924 4213924F1","Serial Number       "," ","Iobst, Ryan (ryio0260)","10-18-2024 10:25:00","Iobst, Ryan (ryio0260)","10-18-2024 10:25:00",,Adtran
+260,"ONT         ",133,GS4237,"FSAN                "," ","Kramme, Matthew (matt)","10-30-2024 17:51:23","Kramme, Matthew (matt)","10-30-2024 17:51:23",,CALIX
+260,"ONT         ",134,GS5229XG,"FSAN                "," ","Kramme, Matthew (matt)","10-30-2024 18:43:51","Kramme, Matthew (matt)","10-30-2024 18:43:51",,CALIX
+260,"ONT         ",135,GP4200RG,"FSAN                "," ","Kramme, Matthew (matt)","10-30-2024 18:44:29","Kramme, Matthew (matt)","10-30-2024 18:44:29",,CALIX
+260,"ONT         ",136,725GE,"FSAN                "," ","Kramme, Matthew (matt)","10-30-2024 20:20:39","Kramme, Matthew (matt)","10-30-2024 20:20:39",,CALIX
+260,"ONT         ",137,844G-1,"FSAN                "," ","Kramme, Matthew (matt)","10-30-2024 20:22:14","Kramme, Matthew (matt)","10-30-2024 20:22:14",,CALIX
+260,"ONT         ",138,717GE,"FSAN                "," ","Kramme, Matthew (matt)","10-30-2024 20:23:31","Kramme, Matthew (matt)","10-30-2024 20:23:31",,CALIX
+260,"ONT         ",139,725GX,"FSAN                "," ","Kramme, Matthew (matt)","10-30-2024 20:24:28","Kramme, Matthew (matt)","10-30-2024 20:24:28",,CALIX
+260,"ONT         ",140,763GX,"FSAN                "," ","Kramme, Matthew (matt)","10-30-2024 20:25:36","Kramme, Matthew (matt)","10-30-2024 20:25:36",,CALIX
+260,"OTHER       ",104,"U6-Lite-US Indoor  2x2 WiFi 6 (802.11ax)","MAC                 ",01-24-2025,"Iobst, Ryan (ryio0260)","10-18-2024 11:00:00","Alvarez, Aaron (aarona)","01-24-2025 11:14:26",,Ubiquiti
+260,"OTHER       ",105,"USG FIREWALL UniFi Security Gateway 3P","MAC                 ",01-24-2025,"Iobst, Ryan (ryio0260)","10-18-2024 11:02:00","Alvarez, Aaron (aarona)","01-24-2025 15:12:09",,Ubiquiti
+260,"OTHER       ",100,"170-3924-902 CIENA 3924 -Single AC Power","Serial              ",01-24-2025,"Iobst, Ryan (ryio0260)","10-18-2024 10:53:00","Alvarez, Aaron (aarona)","01-24-2025 16:04:08",,Ciena
+260,"ONT         ",130,"100-05774 GigaPro GPR8802x","FSAN                ",01-28-2025,"Iobst, Ryan (ryio0260)","10-18-2024 12:00:00","Alvarez, Aaron (aarona)","01-28-2025 10:53:07",,Calix
+260,"ONT         ",99,"100-05774 GigaPro GPR8802X","FSAN                "," ","Dinesh, Arul (aruld)","10-18-2024 10:47:00","Alvarez, Aaron (aarona)","01-28-2025 16:12:35",,CALIX
+260,"ONT         ",73,"100-05613 GS4227W GigaSpire Blast U6xw","FSAN                "," ","Vias, Ivan (ivanv)","08-16-2024 10:22:07","Alvarez, Aaron (aarona)","01-28-2025 16:53:45",,CALIX
+260,"ONT         ",141,844G,"FSAN                "," ","Kramme, Matthew (matt)","10-30-2024 20:26:15","Kramme, Matthew (matt)","10-30-2024 20:26:15",,CALIX
+260,"ONT         ",142,766GX,"FSAN                "," ","Kramme, Matthew (matt)","10-30-2024 20:27:30","Kramme, Matthew (matt)","10-30-2024 20:27:30",,CALIX
+260,"ONT         ",143,724GX,"FSAN                "," ","Kramme, Matthew (matt)","10-30-2024 20:28:09","Kramme, Matthew (matt)","10-30-2024 20:28:09",,CALIX
+260,"ONT         ",144,727GE,"FSAN                "," ","Kramme, Matthew (matt)","10-30-2024 20:28:38","Kramme, Matthew (matt)","10-30-2024 20:28:38",,CALIX
+260,"ONT         ",145,725G,"FSAN                "," ","Kramme, Matthew (matt)","10-30-2024 20:29:11","Kramme, Matthew (matt)","10-30-2024 20:29:11",,CALIX
+260,"ONT         ",146,760GX,"FSAN                "," ","Kramme, Matthew (matt)","10-30-2024 20:29:58","Kramme, Matthew (matt)","10-30-2024 20:29:58",,CALIX
+260,"ONT         ",147,766GX-R,"FSAN                "," ","Kramme, Matthew (matt)","10-30-2024 20:30:28","Kramme, Matthew (matt)","10-30-2024 20:30:28",,ONT
+260,"ONT         ",148,725,"FSAN                "," ","Kramme, Matthew (matt)","10-30-2024 20:30:55","Kramme, Matthew (matt)","10-30-2024 20:30:55",,CALIX
+260,"ONT         ",149,716GE,"FSAN                "," ","Kramme, Matthew (matt)","10-30-2024 20:32:21","Kramme, Matthew (matt)","10-30-2024 20:32:21",,CALIX
+260,"ONT         ",150,765G,"FSAN                "," ","Kramme, Matthew (matt)","10-30-2024 20:32:42","Kramme, Matthew (matt)","10-30-2024 20:32:42",,CALIX
+260,"NONSERIAL   ",151,Firestick,"EQP_ID              "," ","Boon, Kristen (kristenb)","11-04-2024 09:54:15","Boon, Kristen (kristenb)","11-04-2024 09:54:15",,Amazon
+260,"NONSERIAL   ",153,"4K Max Firestick","EQP_ID              "," ","Ratliff, Tracey (traceyr)","11-08-2024 11:53:05","Ratliff, Tracey (traceyr)","11-08-2024 11:53:05",,Amazon
+260,"NONSERIAL   ",152,"Firestick Ethernet Adapter","EQP_ID              "," ","Ratliff, Tracey (traceyr)","11-08-2024 11:52:43","Ratliff, Tracey (traceyr)","11-08-2024 11:55:29",,Amazon
+260,"CMOD        ",154,"DTC36U12V3-G Indoor UPS 32W 12V Battery","CMAC                "," ","Boon, Kristen (kristenb)","11-14-2024 14:10:05","Boon, Kristen (kristenb)","11-14-2024 14:10:05",,
+260,"ONT         ",155,"GS5229E Gigaspire U6t","FSAN                "," ","Boon, Kristen (kristenb)","11-14-2024 14:10:57","Boon, Kristen (kristenb)","11-14-2024 14:10:57",,Calix
+260,"ISPROUTER   ",157,GS2028E,"FSAN                "," ","Iobst, Ryan (ryio0260)","01-20-2025 07:25:19","Iobst, Ryan (ryio0260)","01-20-2025 07:25:19",,CALIX
+260,"ISPROUTER   ",158,GS1028,"FSAN                "," ","Iobst, Ryan (ryio0260)","01-20-2025 07:28:57","Iobst, Ryan (ryio0260)","01-20-2025 07:28:57",,CALIX
+260,"DSLMOD      ",159,VISIONNET,"MAC                 "," ","Iobst, Ryan (ryio0260)","01-20-2025 07:47:09","Iobst, Ryan (ryio0260)","01-20-2025 07:47:09",,DQ
+260,"SEC_DEVICE  ",160,HDP1000,"MAC                 "," ","Iobst, Ryan (ryio0260)","01-20-2025 08:47:04","Iobst, Ryan (ryio0260)","01-20-2025 08:47:04",,AMINO
+260,"SEC_DEVICE  ",161,UVC-G3-BULLET-3,"MAC                 "," ","Iobst, Ryan (ryio0260)","01-20-2025 08:50:41","Iobst, Ryan (ryio0260)","01-20-2025 08:50:41",,UBIQUITI
+260,"VOIPA       ",162,"NetVanta 1335 Non-Wireless Swi","Serial Number       "," ","Iobst, Ryan (ryio0260)","01-20-2025 09:15:31","Iobst, Ryan (ryio0260)","01-20-2025 09:15:31",,ADTRAN
+260,"ONT         ",131,"100-0585/100-05638 GP1101X Giga Poin ONT","FSAN                ",01-22-2025,"Iobst, Ryan (ryio0260)","10-18-2024 12:00:00","Kittivanichkulkrai, Tony (tonyk)","01-22-2025 13:31:52",,Calix
+260,"WLS_ROUTER  ",164,"804 Mesh","FSAN                "," ","Kittivanichkulkrai, Tony (tonyk)","01-30-2025 18:56:49","Kittivanichkulkrai, Tony (tonyk)","01-30-2025 18:56:58",,CALIX
+260,"WLS_ROUTER  ",74,"000-00866 844E-1 w/ power adapter ","FSAN                ",01-23-2025,"Vias, Ivan (ivanv)","08-16-2024 10:22:42","Hunt, Terri (terri)","01-23-2025 15:00:19",,CALIX 
+260,"VOIPA       ",39,"ER-4 4-port Internet Gateway/Firewall-NA","Serial Number       ",01-24-2025,"Vias, Ivan (ivanv)","01-26-2024 12:35:46","Alvarez, Aaron (aarona)","01-24-2025 15:03:02",,UBIQUITI
+260,"ISPROUTER   ",43,"170-3924-902 CIENA 3924-Single AC Power","Serial Number       "," ","Avila, Miguel (miguela)","01-26-2024 15:04:06","Alvarez, Aaron (aarona)","01-24-2025 16:05:23",,CIENA
+260,"ONT         ",156,GPR8802X,"FSAN                ",01-24-2025,"Boon, Kristen (kristenb)","11-14-2024 14:11:31","Alvarez, Aaron (aarona)","01-24-2025 16:35:08",,
+260,"CAMERA      ",79,"UBI-UNVR 4 Bay Network Video Recorder","MAC Address         "," ","Vias, Ivan (ivanv)","08-16-2024 10:27:08","Alvarez, Aaron (aarona)","01-24-2025 17:01:26",,UBIQUITI
+260,"CAMERA      ",78,"UniFi Cloud Key, G2, with HDD","MAC Address         "," ","Vias, Ivan (ivanv)","08-16-2024 10:26:42","Alvarez, Aaron (aarona)","01-24-2025 17:05:32",,UBIQUITI
+260,"CAMERA      ",77,"UniFi Protect G4-Bullet Camera","MAC Address         "," ","Vias, Ivan (ivanv)","08-16-2024 10:26:11","Alvarez, Aaron (aarona)","01-24-2025 17:10:40",,UBIQUITI
+260,"CAMERA      ",76,"UniFi Protect G4 Dome Camera","MAC Address         "," ","Vias, Ivan (ivanv)","08-16-2024 10:24:58","Alvarez, Aaron (aarona)","01-24-2025 17:11:59",,UBIQUITI
+260,"NONSERIAL   ",163,"Firestick Streaming Media Player","EQP_ID              "," ","Ratliff, Tracey (traceyr)","01-28-2025 16:25:13","Ratliff, Tracey (traceyr)","01-28-2025 16:25:13",,
+260,"ONT         ",165,"836 GE","FSAN                "," ","Kittivanichkulkrai, Tony (tonyk)","01-30-2025 18:57:54","Kittivanichkulkrai, Tony (tonyk)","01-30-2025 18:57:54",,CALIX
+260,"CMOD        ",166,DG860P2,"CMAC Address        "," ","Kittivanichkulkrai, Tony (tonyk)","01-30-2025 18:58:56","Kittivanichkulkrai, Tony (tonyk)","01-30-2025 18:58:56",,ARRIS
+260,ACCESS_POINT,167,GPR2032H,"FSAN                "," ","Kittivanichkulkrai, Tony (tonyk)","01-30-2025 18:59:42","Kittivanichkulkrai, Tony (tonyk)","01-30-2025 18:59:42",,CALIX
+260,"WLS_ROUTER  ",168,GS2026E,"FSAN                "," ","Kittivanichkulkrai, Tony (tonyk)","01-30-2025 19:42:24","Kittivanichkulkrai, Tony (tonyk)","01-30-2025 19:42:24",,CALIX
